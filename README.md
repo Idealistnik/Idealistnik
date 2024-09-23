@@ -15,7 +15,5 @@ I am a beginner Frontend developer who decided to change my career path. Over th
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,pug,bootstrap,react,redux,webpack,gulp,vite,git,github,jest,figma)](https://skillicons.dev)
                     
-### Socials
-                              
-<p align="left">
+### Socials                
 <a href="https://www.github.com/Idealistnik" target="_blank" rel="noreferrer">
